@@ -1,0 +1,1 @@
+Írjunk egy programot, ami bekéri egy téglalap oldalainak a hosszát, majd írassuk ki a téglalap kerületét, területét. A kerület és terület kiszámítását függvénnyel oldjuk meg!

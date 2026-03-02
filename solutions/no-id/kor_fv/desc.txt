@@ -1,0 +1,1 @@
+Írjunk egy programot, ami bekéri egy kör sugarát (double típusú érték), majd írassuk ki a kör kerületét, területét. A kerület és terület kiszámítását függvénnyel oldjuk meg!

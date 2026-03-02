@@ -1,0 +1,1 @@
+Írjunk egy programot, ami bekéri egy gömb sugarát (valós érték), majd írassuk ki a gömb felszínét és térfogatát. Három függvényre is szükség lesz: get_double(), amivel egy valós értéket olvasunk be a billentyűzetről, ill. a felszín és térfogat kiszámítását is függvénnyel oldjuk meg!
