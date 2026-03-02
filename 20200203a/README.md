@@ -9,5 +9,5 @@ This is my first scratch project for the **Programming 1** course. It is an inte
 * **Sound Effects:** Laser sound on collection.
 
 ## Gameplay
-![Star and Timer Code](screenshot.jpg)
-![Rocketship Code](screenshot2.jpg)
+![Star and Timer Code](screenshot.png)
+![Rocketship Code](screenshot2.png)
