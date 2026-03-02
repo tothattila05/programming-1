@@ -6,9 +6,13 @@ Solutions for my Programming 1 university course assignments.
 
 ### [20200203a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200203a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200203a)
 
+### [20200213a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200213a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200213a)
+
 ### [20200213b](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200213b) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200213b)
 
 ### [20200213c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200213c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200213c)
+
+### [20200213d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200213d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200213d)
 
 ### [20200213g](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200213g) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200213g)
 
