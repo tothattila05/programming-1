@@ -8,7 +8,7 @@ double get_circle_perimeter(double r)
 
 double get_circle_area(double r)
 {
-    return pow(r, 2) * M_PI;
+    return r * r * M_PI;
 }
 
 int main()

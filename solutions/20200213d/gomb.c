@@ -11,8 +11,8 @@ int main()
     printf("Kerem adja meg a gomb sugarat (r): ");
     scanf("%lf", &r);
 
-    felszin = 4 * M_PI * pow(r, 2);
-    terfogat = (4 * M_PI * pow(r, 3)) / 3.0;
+    felszin = 4 * M_PI * r * r;
+    terfogat = (4 * M_PI * r * r * r) / 3.0;
 
     printf("\n--- Eredmenyek ---\n");
     printf("A gomb sugara: %.2f\n", r);
