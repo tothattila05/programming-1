@@ -4,11 +4,11 @@ Solutions for my Programming 1 university course assignments.
 
 # Solutions list
 
-### Gomb szamitasa fuggvenyekkel [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/gomb_fv)
+### gomb_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/gomb_fv)
 
-### Kor szamitasa fuggvenyekkel [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/kor_fv)
+### kor_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/kor_fv)
 
-### Teglalap szamitasa fuggvenyekkel [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/teglalap_fv)
+### teglalap_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/teglalap_fv)
 
 ### [20200203a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200203a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200203a)
 
