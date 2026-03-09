@@ -1,23 +1,21 @@
 #include <stdio.h>
+#define _USE_MATH_DEFINES
 #include <math.h>
 
 int main()
 {
-    double r;
-    double felszin, terfogat;
+    double r, f, t;
 
-    printf("=== Gomb felszin es terfogat szamito ===\n");
+    printf("--- Gomb felszin es terfogat szamito ---\n\n");
 
-    printf("Kerem adja meg a gomb sugarat (r): ");
+    printf("Kerem adja meg a gomb sugarat: ");
     scanf("%lf", &r);
 
-    felszin = 4 * M_PI * r * r;
-    terfogat = (4 * M_PI * r * r * r) / 3.0;
+    f = 4 * M_PI * r * r;
+    t = (4 * M_PI * r * r * r) / 3.0;
 
-    printf("\n--- Eredmenyek ---\n");
-    printf("A gomb sugara: %.2f\n", r);
-    printf("A gomb felszine: %.4f\n", felszin);
-    printf("A gomb terfogata: %.4f\n", terfogat);
+    printf("\nA gomb felszine: %.4f", f);
+    printf("\nA gomb terfogata: %.4f", t);
 
     return 0;
 }

@@ -2,21 +2,18 @@
 
 int main()
 {
-    int a;
-    int kerulet, terulet;
+    int a, k, t;
 
-    printf("=== Negyzet kerulet es terulet szamito ===\n");
+    printf("--- Negyzet kerulet es terulet szamito ---\n\n");
 
-    printf("Kerem adja meg a negyzet oldalanak hosszat (egesz szam): ");
+    printf("Kerem adja meg a negyzet oldalanak hosszat: ");
     scanf("%d", &a);
 
-    kerulet = 4 * a;
-    terulet = a * a;
+    k = 4 * a;
+    t = a * a;
 
-    printf("\n--- Eredmenyek ---\n");
-    printf("A megadott oldal: a = %d\n", a);
-    printf("A negyzet kerulete: %d\n", kerulet);
-    printf("A negyzet terulete: %d\n", terulet);
+    printf("\nA negyzet kerulete: %d", k);
+    printf("\nA negyzet terulete: %d", t);
 
     return 0;
 }
