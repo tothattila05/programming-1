@@ -2,27 +2,30 @@
 
 int main()
 {
-    int magassag;
-    int sor, oszlop;
+    int height;
 
-    printf("magassag: ");
-    scanf("%d", &magassag);
+    printf("--- Mario V3 ---\n\n");
 
-    for (sor = 1; sor <= magassag; sor++)
+    printf("Kerjuk adja meg a magassagot: ");
+    scanf("%d", &height);
+
+    for (int line = 1; line <= height; line++)
     {
-        for (oszlop = 1; oszlop <= magassag - sor; oszlop++)
+        int column;
+
+        for (column = 1; column <= height - line; column++)
         {
             printf(" ");
         }
 
-        for (oszlop = 1; oszlop <= sor; oszlop++)
+        for (column = 1; column <= line; column++)
         {
             printf("#");
         }
 
         printf("  ");
 
-        for (oszlop = 1; oszlop <= sor; oszlop++)
+        for (column = 1; column <= line; column++)
         {
             printf("#");
         }

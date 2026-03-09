@@ -2,24 +2,21 @@
 
 int main()
 {
-    int a, b;
-    int kerulet, terulet;
+    int a, b, k, t;
 
     printf("--- Teglalap kerulet es terulet szamito ---\n");
 
-    printf("Kerem adja meg a teglalap 'a' oldalanak hosszat (egesz szam): ");
+    printf("\nKerjuk adja meg a teglalap 'a' oldalat: ");
     scanf("%d", &a);
 
-    printf("Kerem adja meg a teglalap 'b' oldalanak hosszat (egesz szam): ");
+    printf("Kerjuk adja meg a teglalap 'b' oldalat: ");
     scanf("%d", &b);
 
-    kerulet = 2 * (a + b);
-    terulet = a * b;
+    k = 2 * (a + b);
+    t = a * b;
 
-    printf("\n--- Eredmenyek ---\n");
-    printf("A megadott oldalak: a = %d, b = %d\n", a, b);
-    printf("A teglalap kerulete: %d\n", kerulet);
-    printf("A teglalap terulete: %d\n", terulet);
+    printf("\nA teglalap kerulete: %d", k);
+    printf("\nA teglalap terulete: %d", t);
 
     return 0;
 }

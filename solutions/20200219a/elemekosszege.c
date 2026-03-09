@@ -2,20 +2,19 @@
 
 int main()
 {
-    int szam;
-    int osszeg = 0;
+    int num;
+    int sum = 0;
 
-    printf("=== Elemek osszege (0 vegjelig) ===\n");
+    printf("--- Elemek osszege ---\n\n");
 
     do
     {
         printf("Egesz szam (vege: 0): ");
-        scanf("%d", &szam);
-        osszeg += szam;
+        scanf("%d", &num);
+        sum += num;
+    } while (num != 0);
 
-    } while (szam != 0);
-
-    printf("\nElemek osszege: %d\n", osszeg);
+    printf("\nElemek osszege: %d", sum);
 
     return 0;
 }

@@ -2,41 +2,41 @@
 
 int main()
 {
-    int magassag;
-    int sor, oszlop, szunetek, csillagok;
+    int height, line, spaces, stars;
 
-    printf("Kerem a gyemant magassagat (pozitiv paratlan szam): ");
-    scanf("%d", &magassag);
+    printf("--- Diamond ---\n\n");
 
-    if (magassag <= 0 || magassag % 2 == 0)
+    printf("Kerjuk adja meg a magassagot: ");
+    scanf("%d", &height);
+
+    if (height <= 0 || height % 2 == 0)
     {
-        printf("Hiba: Csak pozitiv paratlan szamot fogadunk el!\n");
+        printf("\nHiba: Csak pozitiv paratlan szamot fogadok el!");
         return 1;
     }
 
-    int kozep = magassag / 2;
+    int center = height / 2;
 
-    for (sor = 0; sor <= kozep; sor++)
+    for (line = 0; line <= center; line++)
     {
-        for (szunetek = 0; szunetek < kozep - sor; szunetek++)
+        for (spaces = 0; spaces < center - line; spaces++)
         {
             printf(" ");
         }
-        for (csillagok = 0; csillagok < (2 * sor + 1); csillagok++)
+        for (stars = 0; stars < (2 * line + 1); stars++)
         {
             printf("*");
         }
         printf("\n");
     }
 
-    for (sor = kozep - 1; sor >= 0; sor--)
+    for (line = center - 1; line >= 0; line--)
     {
-        for (szunetek = 0; szunetek < kozep - sor; szunetek++)
+        for (spaces = 0; spaces < center - line; spaces++)
         {
             printf(" ");
         }
-
-        for (csillagok = 0; csillagok < (2 * sor + 1); csillagok++)
+        for (stars = 0; stars < (2 * line + 1); stars++)
         {
             printf("*");
         }

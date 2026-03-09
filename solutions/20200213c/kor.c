@@ -1,23 +1,21 @@
 #include <stdio.h>
+#define _USE_MATH_DEFINES
 #include <math.h>
 
 int main()
 {
-    double sugar;
-    double kerulet, terulet;
+    double r, k, t;
 
-    printf("=== Kor Kerulet es Terulet Szamito ===\n");
+    printf("--- Kor kerulet es terulet szamito ---\n");
 
-    printf("Kerem, adja meg a kor sugarat: ");
-    scanf("%lf", &sugar);
+    printf("\nKerjuk adja meg a kor sugarat: ");
+    scanf("%lf", &r);
 
-    kerulet = 2 * sugar * M_PI;
-    terulet = sugar * sugar * M_PI;
+    k = 2 * r * M_PI;
+    t = r * r * M_PI;
 
-    printf("\n--- Eredmenyek ---\n");
-    printf("A megadott sugar: r = %.2f\n", sugar);
-    printf("A kor kerulete: %.4f\n", kerulet);
-    printf("A kor terulete: %.4f\n", terulet);
+    printf("\nA kor kerulete: %.4f", k);
+    printf("\nA kor terulete: %.4f", t);
 
     return 0;
 }
