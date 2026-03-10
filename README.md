@@ -4,6 +4,8 @@ Solutions for my Programming 1 university course assignments.
 
 # Solutions list
 
+### get_pos_int_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/get_pos_int_fv)
+
 ### gomb_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/gomb_fv)
 
 ### kor_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/kor_fv)
