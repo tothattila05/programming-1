@@ -1,12 +1,6 @@
 #include <stdio.h>
+#define _USE_MATH_DEFINES
 #include <math.h>
-
-double get_double()
-{
-    double ertek;
-    scanf("%lf", &ertek);
-    return ertek;
-}
 
 double szamit_felszin(double r)
 {
@@ -20,24 +14,18 @@ double szamit_terfogat(double r)
 
 int main()
 {
-    double sugar;
+    double r;
 
-    printf("=== Gomb kalkulator ===\n");
+    printf("--- Gomb felszin es terfogat szamito (fuggvenyekkel) ---\n\n");
 
-    printf("Adja meg a gomb sugarat: ");
+    printf("Kerem adja meg a gomb sugarat: ");
+    scanf("%lf", &r);
 
-    sugar = get_double();
+    double f = szamit_felszin(r);
+    double t = szamit_terfogat(r);
 
-    if (sugar >= 0)
-    {
-        printf("\nEredmenyek:\n");
-        printf("A gomb felszine: %.4f\n", szamit_felszin(sugar));
-        printf("A gomb terfogata: %.4f\n", szamit_terfogat(sugar));
-    }
-    else
-    {
-        printf("Hiba: Negativ sugar nem ertelmezheto!\n");
-    }
+    printf("\nA gomb felszine: %.4f", f);
+    printf("\nA gomb terfogata: %.4f", t);
 
     return 0;
 }

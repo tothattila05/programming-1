@@ -14,20 +14,19 @@ int main()
 {
     double a, b;
 
-    printf("=== Teglalap kalkulator (fuggvenyekkel) ===\n");
+    printf("--- Teglalap kerulet es terulet szamito (fuggvenyekkel) ---\n");
 
-    // Adatbekeres
-    printf("Adja meg az 'a' oldalt: ");
+    printf("\nKerjuk adja meg a teglalap 'a' oldalat: ");
     scanf("%lf", &a);
-    printf("Adja meg a 'b' oldalt: ");
+
+    printf("Kerjuk adja meg a teglalap 'b' oldalat: ");
     scanf("%lf", &b);
 
-    double kerulet = szamit_kerulet(a, b);
-    double terulet = szamit_terulet(a, b);
+    double k = szamit_kerulet(a, b);
+    double t = szamit_terulet(a, b);
 
-    printf("\nEredmenyek:\n");
-    printf("Kerulet: %.2f\n", kerulet);
-    printf("Terulet: %.2f\n", terulet);
+    printf("\nA teglalap kerulete: %.2f", k);
+    printf("\nA teglalap terulete: %.2f", t);
 
     return 0;
 }

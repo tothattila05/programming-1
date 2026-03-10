@@ -1,12 +1,13 @@
 #include <stdio.h>
+#define _USE_MATH_DEFINES
 #include <math.h>
 
-double get_circle_perimeter(double r)
+double szamit_kerulet(double r)
 {
     return 2 * r * M_PI;
 }
 
-double get_circle_area(double r)
+double szamit_terulet(double r)
 {
     return r * r * M_PI;
 }
@@ -15,19 +16,16 @@ int main()
 {
     double r;
 
-    printf("=== Kor kalkulator ===\n");
-    printf("Adja meg a kor sugarat: ");
+    printf("--- Kor kerulet es terulet szamito (fuggvenyekkel) ---\n");
 
-    if (scanf("%lf", &r) == 1 && r >= 0)
-    {
-        printf("\nEredmenyek:\n");
-        printf("Kerulet: %.4f\n", get_circle_perimeter(r));
-        printf("Terulet: %.4f\n", get_circle_area(r));
-    }
-    else
-    {
-        printf("Hiba: Ervenytelen sugar!\n");
-    }
+    printf("\nKerjuk adja meg a kor sugarat: ");
+    scanf("%lf", &r);
+
+    double k = szamit_kerulet(r);
+    double t = szamit_terulet(r);
+
+    printf("\nA kor kerulete: %.4f", k);
+    printf("\nA kor terulete: %.4f", t);
 
     return 0;
 }
