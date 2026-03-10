@@ -14,9 +14,9 @@ int main()
 {
     double a, b;
 
-    printf("--- Teglalap kerulet es terulet szamito (fuggvenyekkel) ---\n");
+    printf("--- Teglalap kerulet es terulet szamito (fuggvenyekkel) ---\n\n");
 
-    printf("\nKerjuk adja meg a teglalap 'a' oldalat: ");
+    printf("Kerjuk adja meg a teglalap 'a' oldalat: ");
     scanf("%lf", &a);
 
     printf("Kerjuk adja meg a teglalap 'b' oldalat: ");

@@ -16,9 +16,9 @@ int main()
 {
     double r;
 
-    printf("--- Kor kerulet es terulet szamito (fuggvenyekkel) ---\n");
+    printf("--- Kor kerulet es terulet szamito (fuggvenyekkel) ---\n\n");
 
-    printf("\nKerjuk adja meg a kor sugarat: ");
+    printf("Kerjuk adja meg a kor sugarat: ");
     scanf("%lf", &r);
 
     double k = szamit_kerulet(r);
