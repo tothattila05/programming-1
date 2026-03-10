@@ -1,5 +1,5 @@
 .vscode/*
 .vscode/
-a.exe
+*.exe
 *.bat
 _*
