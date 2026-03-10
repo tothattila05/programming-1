@@ -1,0 +1,1 @@
+contains() függvény megírása: egy tömbben szerepel-e egy adott elem?

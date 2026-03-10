@@ -1,0 +1,1 @@
+index() függvény megírása: egy tömbben hol (melyik indexpozíción) szerepel egy adott elem? Ha a tömbben nincs benne az adott elem, akkor a fv.-nek milyen értéket kellene visszaadni?

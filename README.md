@@ -4,6 +4,10 @@ Solutions for my Programming 1 university course assignments.
 
 # Solutions list
 
+### contains_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/contains_fv)
+
+### find_index_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/find_index_fv)
+
 ### get_pos_int_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/get_pos_int_fv)
 
 ### gomb_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/gomb_fv)
@@ -41,3 +45,19 @@ Solutions for my Programming 1 university course assignments.
 ### [20200220c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200220c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200220c)
 
 ### [20200220g](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200220g) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200220g)
+
+### [20200228a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200228a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200228a)
+
+### [20200305a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305a)
+
+### [20200305b](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305b) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305b)
+
+### [20200305c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305c)
+
+### [20200305d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305d)
+
+### [20200305e](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305e) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305e)
+
+### [20200305f](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305f) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305f)
+
+### [20200305h](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200305h) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200305h)
