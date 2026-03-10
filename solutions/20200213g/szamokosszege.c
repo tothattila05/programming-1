@@ -4,7 +4,7 @@ int main()
 {
     int sum = 0;
 
-    printf("--- Egesz szamok osszege 1-tol 100-ig ---\n");
+    printf("--- Egesz szamok osszege 1-tol 100-ig ---\n\n");
 
     for (int i = 1; i <= 100; i++)
     {

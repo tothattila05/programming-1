@@ -6,9 +6,9 @@ int main()
 {
     double r, k, t;
 
-    printf("--- Kor kerulet es terulet szamito ---\n");
+    printf("--- Kor kerulet es terulet szamito ---\n\n");
 
-    printf("\nKerjuk adja meg a kor sugarat: ");
+    printf("Kerjuk adja meg a kor sugarat: ");
     scanf("%lf", &r);
 
     k = 2 * r * M_PI;

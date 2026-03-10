@@ -4,9 +4,9 @@ int main()
 {
     int a, b, k, t;
 
-    printf("--- Teglalap kerulet es terulet szamito ---\n");
+    printf("--- Teglalap kerulet es terulet szamito ---\n\n");
 
-    printf("\nKerjuk adja meg a teglalap 'a' oldalat: ");
+    printf("Kerjuk adja meg a teglalap 'a' oldalat: ");
     scanf("%d", &a);
 
     printf("Kerjuk adja meg a teglalap 'b' oldalat: ");

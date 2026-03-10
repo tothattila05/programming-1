@@ -4,7 +4,7 @@ int main()
 {
     int sum = 0;
 
-    printf("--- Project Euler #1: 3 es 5 tobbszoroseinek osszege ---\n");
+    printf("--- Project Euler #1: 3 es 5 tobbszoroseinek osszege ---\n\n");
 
     for (int i = 1; i < 1000; i++)
     {
