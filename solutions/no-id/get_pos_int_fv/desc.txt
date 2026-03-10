@@ -1,0 +1,1 @@
+A gyakorlaton láttuk a get_positive_int() nevű függvényt, amit végtelen ciklussal oldottunk meg. Írjuk át ezt a függvényt úgy, hogy vagy while ciklust (nem végtelen ciklust), vagy pedig do-while ciklust használunk (lehet választani).
