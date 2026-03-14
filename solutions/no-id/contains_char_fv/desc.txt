@@ -1,0 +1,1 @@
+int contains_char(string s, char c); függvény megírása (az s sztringben előfordul-e a megadott karakter vagy sem)
