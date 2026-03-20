@@ -2,7 +2,7 @@
 
 Solutions for my Programming 1 university course assignments.
 
-# Solutions list
+# solutions list
 
 ### contains_char_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/contains_char_fv)
 
@@ -73,3 +73,15 @@ Solutions for my Programming 1 university course assignments.
 ### [20200311h](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200311h) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200311h)
 
 ### [20200311i](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200311i) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200311i)
+
+### [20200321a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200321a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200321a)
+
+### [20200321c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200321c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200321c)
+
+### [20200326a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200326a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200326a)
+
+### [20200326b](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200326b) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200326b)
+
+### [20200326c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200326c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200326c)
+
+### [20200326d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200326d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200326d)
