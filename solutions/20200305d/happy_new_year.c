@@ -2,9 +2,6 @@
 
 int main(void)
 {
-    int year = '-' * '-' + ('B' - 'A');
-
-    printf("%d\n", year);
-
+    printf("%d\n", '-' * '-' + ('B' - 'A'));
     return 'A' - 'A';
 }
