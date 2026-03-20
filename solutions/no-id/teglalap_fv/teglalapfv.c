@@ -10,7 +10,7 @@ double szamit_terulet(double a, double b)
     return a * b;
 }
 
-int main()
+int main(void)
 {
     double a, b;
 

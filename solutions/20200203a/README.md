@@ -3,11 +3,13 @@
 This is my first scratch project for the **Programming 1** course. It is an interactive game where you control a rocketship to collect stars within a time limit.
 
 ## Features
-* **Player Movement:** Follows the mouse pointer.
-* **Score System:** Increases when touching the star.
-* **Timer:** 30-second countdown.
-* **Sound Effects:** Laser sound on collection.
+
+- **Player Movement:** Follows the mouse pointer.
+- **Score System:** Increases when touching the star.
+- **Timer:** 30-second countdown.
+- **Sound Effects:** Laser sound on collection.
 
 ## Gameplay
+
 ![Star and Timer Code](screenshot.png)
 ![Rocketship Code](screenshot2.png)

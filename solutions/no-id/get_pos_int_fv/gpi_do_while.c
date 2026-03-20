@@ -13,7 +13,7 @@ int get_positive_int(void)
     return n;
 }
 
-int main()
+int main(void)
 {
     printf("--- get_positive_int() [do_while] ---\n\n");
 

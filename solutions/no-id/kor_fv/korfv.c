@@ -12,7 +12,7 @@ double szamit_terulet(double r)
     return r * r * M_PI;
 }
 
-int main()
+int main(void)
 {
     double r;
 

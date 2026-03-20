@@ -12,7 +12,7 @@ double szamit_terfogat(double r)
     return (4.0 * M_PI * r * r * r) / 3.0;
 }
 
-int main()
+int main(void)
 {
     double r;
 
