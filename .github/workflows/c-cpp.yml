@@ -15,5 +15,28 @@ jobs:
 
       - name: Compile check
         run: |
-          find solutions -name "*.c" -exec gcc {} -o /dev/null -lm \;
-          echo "All files compiled successfully."
+          echo "Checking C files in /solutions..."
+
+          TOTAL=0
+          FAILED=0
+
+          FILES=$(find solutions -name "*.c")
+
+          for file in $FILES; do
+            TOTAL=$((TOTAL + 1))
+            if ! gcc "$file" -o /dev/null -lm -Wall -Wextra -std=c11 2> temp_error.log; then
+              echo "::error file=$file::Compilation failed in $file"
+              cat temp_error.log
+              FAILED=$((FAILED + 1))
+            fi
+          done
+
+          echo "==============================="
+          echo "Summary: $TOTAL files checked."
+
+          if [ $FAILED -ne 0 ]; then
+            echo "$FAILED files failed to compile!"
+            exit 1
+          else
+            echo "All files are perfect."
+          fi
