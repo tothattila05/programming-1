@@ -2,5 +2,5 @@
 .vscode/
 *.out
 *.exe
-*.bat
+*.py
 _*
