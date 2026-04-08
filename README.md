@@ -18,6 +18,8 @@ Solutions for my Programming 1 university course assignments.
 
 ### teglalap_fv [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/no-id/teglalap_fv)
 
+### [20120818f](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Py3.20120818f) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20120818f)
+
 ### [20200203a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200203a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200203a)
 
 ### [20200213a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200213a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200213a)
@@ -85,3 +87,13 @@ Solutions for my Programming 1 university course assignments.
 ### [20200326c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200326c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200326c)
 
 ### [20200326d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200326d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200326d)
+
+### [20200331a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200331a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200331a)
+
+### [20200331b](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200331b) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200331b)
+
+### [20200331c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200331c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200331c)
+
+### [20200331d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200331d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200331d)
+
+### [20200407a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200407a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200407a)
