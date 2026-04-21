@@ -97,3 +97,13 @@ Solutions for my Programming 1 university course assignments.
 ### [20200331d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200331d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200331d)
 
 ### [20200407a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200407a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200407a)
+
+### [20200409a](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200409a) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200409a)
+
+### [20200409b](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200409b) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200409b)
+
+### [20200409c](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200409c) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200409c)
+
+### [20200409d](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200409d) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200409d)
+
+### [20200409e](https://arato.inf.unideb.hu/szathmary.laszlo/pmwiki/index.php?n=Prog1.20200409e) [[GitHub Goto]](https://github.com/tothattila05/programming-1/tree/main/solutions/20200409e)
