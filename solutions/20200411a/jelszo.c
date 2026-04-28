@@ -27,7 +27,7 @@ int main(void)
     char digits[] = "0123456789";
     char special[] = ".,;'";
 
-    char password[13] = '\0';
+    char password[13] = "";
     int length = 8 + rand() % 5;
 
     password[0] = lowercase[rand() % 26];
