@@ -4,5 +4,3 @@
 *.exe
 *.py
 _*
-!*.win.exe
-!*.linux.out

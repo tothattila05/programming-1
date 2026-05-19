@@ -3,8 +3,7 @@
 long long sum_of_squares(int n)
 {
     long long sum = 0;
-    int i;
-    for (i = 1; i <= n; i++)
+    for (int i = 1; i <= n; i++)
     {
         sum += (long long)i * i;
     }
@@ -14,8 +13,7 @@ long long sum_of_squares(int n)
 long long square_of_sum(int n)
 {
     long long sum = 0;
-    int i;
-    for (i = 1; i <= n; i++)
+    for (int i = 1; i <= n; i++)
     {
         sum += i;
     }
@@ -24,10 +22,10 @@ long long square_of_sum(int n)
 
 int main(void)
 {
-    int limit = 100;
-    long long diff;
+    printf("--- sum square difference PE#6 ---\n");
 
-    printf("--- Sum Square Difference PE #6 ---\n");
+    int limit = 100;
+    long long diff = 0;
 
     diff = square_of_sum(limit) - sum_of_squares(limit);
 
